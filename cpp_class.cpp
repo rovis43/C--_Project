@@ -4,9 +4,9 @@ consteval int get_value() {
     return 3;
 }
 
-int main() {
-    std::cout << "Hello World! \n";
-    std::cout << "Hello World!" << std::endl;
+// int main() {
+//     std::cout << "Hello World! \n";
+//     std::cout << "Hello World!" << std::endl;
     
-    return 0;
-}   
+//     return 0;
+// }   
